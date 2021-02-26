@@ -1,2 +1,3 @@
 # Javascript
-Alguns programas básicos de Javascript que eu pensei em colocar aqui.
+
+Alguns programas básicos em Javascript que eu pensei em colocar aqui.
